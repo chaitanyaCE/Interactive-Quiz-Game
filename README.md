@@ -1,4 +1,4 @@
-🧠 Interactive Quiz Game
+🧠  Expense Tracker
 
 A simple, interactive web-based quiz game built with HTML, CSS, and Vanilla JavaScript. Test your knowledge with multiple-choice questions, track your progress, and get a final score based on your performance!
 
